@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "starting the script"
 sleep 3
 echo "We're no strangers to love
 You know the rules and so do I
