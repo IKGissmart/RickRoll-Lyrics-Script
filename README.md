@@ -11,7 +11,7 @@ Now Do this
 ``` 
 cd RickRoll-Lyrics-Script
 ```
-To get into the repository 
+To get into the Directory 
 
 Now to Mark the script as a executable 
 ```
