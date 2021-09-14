@@ -6,7 +6,7 @@ Yay!
 git clone https://github.com/IKGissmart/RickRoll-Lyrics-Script.git
 
 ```
-The Repo Should be Cloned and then Run the Script 
+The Repo Should be Cloned. 
 Now Do this 
 ``` 
 cd RickRoll-Lyrics-Script
