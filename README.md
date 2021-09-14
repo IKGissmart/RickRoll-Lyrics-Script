@@ -7,3 +7,18 @@ git clone https://github.com/IKGissmart/RickRoll-Lyrics-Script.git
 
 ```
 The Repo Should be Cloned and then Run the Script 
+Now Do this 
+``` 
+cd RickRoll-Lyrics-Script
+```
+To get into the repository 
+
+Now to Mark the script as a executable 
+```
+chmod a+x Animation.sh
+``` 
+To Run the File Do this 
+```
+./Animation.sh
+```
+
