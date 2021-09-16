@@ -4,7 +4,6 @@ Yay!
 # To Clone the repo run this command in terminal 
 ```
 git clone https://github.com/IKGissmart/RickRoll-Lyrics-Script.git
-
 ```
 The Repo Should be Cloned. 
 Now Do this 
